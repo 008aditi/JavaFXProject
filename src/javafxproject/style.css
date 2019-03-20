@@ -1,0 +1,83 @@
+#openButton{
+    -fx-background-color: transparent;
+    -fx-background-image: url("../icon/openimg.png");
+    -fx-background-size: 25 25;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#stopButton{
+    -fx-background-color: transparent;
+    -fx-background-image: url("../icon/stopimg.png");
+    -fx-background-size: 25 25;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#slowerButton{
+    -fx-background-color: transparent;
+    -fx-background-image: url("../icon/previmg.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#slowButton{
+    -fx-background-color: transparent;
+    -fx-background-image: url("../icon/slowimg.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#playButton{
+    -fx-background-color: transparent;
+    -fx-background-image: url("../icon/playimg.png");
+    -fx-background-size: 30 30;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#pauseButton{
+    -fx-background-color: transparent;
+    -fx-background-image: url("../icon/pauseimg.png");
+    -fx-background-size: 30 30;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#fastButton{
+    -fx-background-color: transparent;
+    -fx-background-image: url("../icon/fastimg.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#fasterButton{
+    -fx-background-color: transparent;
+    -fx-background-image: url("../icon/nextimg.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#exitButton{
+    -fx-background-color: transparent;
+    -fx-background-image: url("../icon/exitimg_1.png");
+    -fx-background-size: 25 25;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#volButton{
+    -fx-background-color: transparent;
+    -fx-background-image: url("../icon/audioon.png");
+    -fx-background-size: 15 15;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#repeatButton{
+   
+    -fx-background-image: url("../icon/repeat.png");
+    -fx-background-size: 25 25;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#playlistButton{
+     -fx-background-image: url("../icon/playlist.png");
+    -fx-background-size: 25 25;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
